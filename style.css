@@ -1,0 +1,5 @@
+body {
+    background-size: 300px 144px;
+    background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 300 144" width="300" height="144" style="opacity: 0.5; filter: grayscale(0.0);"><text x="0em" y="1em" font-size="60" transform="rotate(0 37.5 36)">📷</text><text x="1.25em" y="2em" font-size="60" transform="rotate(0 112.5 96)">🖥</text><text x="2.5em" y="1em" font-size="60" transform="rotate(0 187.5 36)">📱</text><text x="3.75em" y="2em" font-size="60" transform="rotate(0 262.5 96)">🕹</text></svg>');
+}
+
